@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\DecryptingMessage\bin\Debug\DecryptingMessage.exe.config
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\DecryptingMessage\bin\Debug\DecryptingMessage.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\DecryptingMessage\bin\Debug\DecryptingMessage.pdb
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\DecryptingMessage\obj\Debug\DecryptingMessage.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\DecryptingMessage\obj\Debug\DecryptingMessage.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\DecryptingMessage\obj\Debug\DecryptingMessage.pdb

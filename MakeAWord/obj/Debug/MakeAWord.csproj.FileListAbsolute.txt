@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\MakeAWord\bin\Debug\MakeAWord.exe.config
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\MakeAWord\bin\Debug\MakeAWord.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\MakeAWord\bin\Debug\MakeAWord.pdb
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\MakeAWord\obj\Debug\MakeAWord.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\MakeAWord\obj\Debug\MakeAWord.pdb

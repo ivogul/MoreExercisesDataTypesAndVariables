@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.exe.config
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.pdb
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.pdb

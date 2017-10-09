@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SentenceTheThief\bin\Debug\SentenceTheThief.exe.config
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SentenceTheThief\bin\Debug\SentenceTheThief.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SentenceTheThief\bin\Debug\SentenceTheThief.pdb
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SentenceTheThief\obj\Debug\SentenceTheThief.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SentenceTheThief\obj\Debug\SentenceTheThief.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\SentenceTheThief\obj\Debug\SentenceTheThief.pdb

@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\NumberChecker\bin\Debug\NumberChecker.exe.config
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\NumberChecker\bin\Debug\NumberChecker.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\NumberChecker\bin\Debug\NumberChecker.pdb
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\NumberChecker\obj\Debug\NumberChecker.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\NumberChecker\obj\Debug\NumberChecker.pdb

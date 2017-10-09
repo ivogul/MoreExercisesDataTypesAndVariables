@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\HouseBuilder\bin\Debug\HouseBuilder.exe.config
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\HouseBuilder\bin\Debug\HouseBuilder.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\HouseBuilder\bin\Debug\HouseBuilder.pdb
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\HouseBuilder\obj\Debug\HouseBuilder.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\HouseBuilder\obj\Debug\HouseBuilder.exe
+D:\Documents\Visual Studio 2015\Projects\MoreExercisesDataTypesAndVariables\HouseBuilder\obj\Debug\HouseBuilder.pdb
